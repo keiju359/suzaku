@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Rubyhoge::Application.load_tasks
+Excru::Application.load_tasks
